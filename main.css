@@ -17,11 +17,14 @@ header {
     height: 300px; //**prof. suggested 300px**//
     margin-top: 50px;
     margin-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
 }
 
 section {
     height: 400px;
     margin-bottom: 10px;
+
 }
 
 aside {
@@ -29,6 +32,8 @@ aside {
     background-color: tomato;
     width: 33.33333%;
     float: left;
+    padding-top: 10px;
+    padding-left: 10px;
 }
 
 article {
@@ -36,10 +41,14 @@ article {
     background-color: black;
     width: 33.33333%;
     float: right;
+    padding-top: 10px;
+    padding-left: 10px;
 }
 
 footer {
     background: #ff4444;
     height: 150px;
     clear: both;
+    padding-top: 10px;
+    padding-left: 10px;
 }
