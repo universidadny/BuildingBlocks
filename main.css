@@ -1,3 +1,8 @@
+* {
+    box-sizing: border-box;
+    border: solid 0.5px #7c7c7c;
+}
+
 body {
     border: 1px solid none;
     width: 70%;
@@ -7,10 +12,7 @@ body {
     //**margin-bottom: 10px;**//    
 }
 
-* {
-    box-sizing: border-box;
-    border: solid 0.5px #7c7c7c;
-}
+
 
 header {
     background-color: #000;
@@ -24,13 +26,12 @@ header {
 section {
     height: 400px;
     margin-bottom: 10px;
-
 }
 
 aside {
     height: 200px;
     background-color: tomato;
-    width: 33.33333%;
+    width: 33.33%;
     float: left;
     padding-top: 10px;
     padding-left: 10px;
@@ -39,8 +40,8 @@ aside {
 article {
     height: 200px;
     background-color: black;
-    width: 33.33333%;
-    float: right;
+    width: 33.33%;
+    float: left;
     padding-top: 10px;
     padding-left: 10px;
 }
