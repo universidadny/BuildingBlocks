@@ -1,6 +1,5 @@
 * {
     box-sizing: border-box;
-    border: solid 0.5px #7c7c7c;
 }
 
 body {
@@ -21,6 +20,7 @@ header {
     margin-bottom: 10px;
     padding-top: 10px;
     padding-left: 10px;
+    border: solid 0.5px #3c3c3c;
 }
 
 section {
@@ -35,6 +35,7 @@ aside {
     float: left;
     padding-top: 10px;
     padding-left: 10px;
+    border: solid 0.5px #3c3c3c;
 }
 
 article {
@@ -44,6 +45,7 @@ article {
     float: left;
     padding-top: 10px;
     padding-left: 10px;
+    border: solid 0.5px #3c3c3c;
 }
 
 footer {
@@ -52,4 +54,5 @@ footer {
     clear: both;
     padding-top: 10px;
     padding-left: 10px;
+    border: solid 0.5px #3c3c3c;
 }
