@@ -24,7 +24,7 @@ section {
     margin-bottom: 10px;
 }
 
-aside {
+.aside {
     height: 400px;
     background-color: tomato;
     width: 29%;
@@ -34,7 +34,7 @@ aside {
     padding-left: 10px;
 }
 
-article {
+.article {
     height: 400px;
     background-color: black;
     width: 70%;

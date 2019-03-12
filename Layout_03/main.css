@@ -28,7 +28,7 @@ section {
     margin-bottom: 10px;
 }
 
-aside {
+.aside {
     height: 200px;
     background-color: tomato;
     width: 33.33%;
@@ -38,7 +38,7 @@ aside {
     border: solid 0.5px #3c3c3c;
 }
 
-article {
+.article {
     height: 200px;
     background-color: black;
     width: 33.33%;
